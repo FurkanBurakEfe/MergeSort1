@@ -24,3 +24,7 @@ Patika.dev Veri analizi ve Algoritmalar dersinin merge sort projesidir.
 x=Logn
 
 Big-O: O(nLogn)
+
+
+
+www.patika.dev
